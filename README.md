@@ -2,7 +2,7 @@
 
 Django Images Uploader Website.
 
-FrontEnd Used as - Html, Css framework  i.e.Bootstrp.
+Frontend used as - Html, & Css framework  i.e.Bootstrap.
 
 #Output
 
